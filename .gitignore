@@ -1,0 +1,7 @@
+.venv/
+.idea/
+Data/
+logs/
+models/
+__pycache__/
+*.pyc
