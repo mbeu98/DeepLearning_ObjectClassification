@@ -51,6 +51,7 @@ dataAugmentation = Sequential([
 #Model laden
 #model = tf.keras.models.load_model("modelTL_testInceptionQ.keras")
 
+#Identifizieren der Bilder bei Klassenverwechselung
 # class_path = "C:/Users/mikab/PycharmProjects/DeepLearning/Data/test/Hoopoe(Wiedehopf)"
 # true_class = os.path.basename(class_path)
 # for filename in os.listdir(class_path):
